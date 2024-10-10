@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(75, 50, 105);
+    color: white;
+    font-family: "Anton", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+button {
+background-color: rgb(15, 97, 97);
+color: rgba(191, 230, 174, 0);
+font-family: "Rubik", sans-serif;
+}
