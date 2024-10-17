@@ -13,3 +13,11 @@ background-color: rgb(15, 97, 97);
 color: rgba(191, 230, 174, 0);
 font-family: "Rubik", sans-serif;
 }
+
+.passo {
+    display: nome;
+}
+
+.passo.ativo {
+display: block;
+}
