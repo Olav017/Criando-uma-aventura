@@ -10,7 +10,7 @@ body {
 }
 button {
 background-color: rgb(15, 97, 97);
-color: rgba(191, 230, 174, 0);
+color: rgb(191, 230, 174);
 font-family: "Rubik", sans-serif;
 }
 
@@ -20,4 +20,13 @@ font-family: "Rubik", sans-serif;
 
 .passo.ativo {
 display: block;
+}
+
+main{
+    text-align: center;
+    max-width: 90%;
+}
+
+img{
+    max-width: 80%;
 }
